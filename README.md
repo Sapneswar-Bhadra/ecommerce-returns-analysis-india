@@ -15,9 +15,9 @@ The dataset includes:
 - Delivery details
 
 ## Tools Used
-- Excel (data cleaning, analysis, pivot tables)
-- SQL (conceptual joins and relational thinking)
-- Tableau (planned for visualization)
+- Microsoft Excel (data cleaning, analysis, pivot tables)
+- GitHub (project versioning and portfolio presentation)
+
 
 ## Key Analysis
 - Created return flags to identify failed orders
