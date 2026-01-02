@@ -26,7 +26,7 @@ The dataset includes:
 - Segmented orders into high-risk and low-risk categories
 
 ## Business Solution
-Designed a 100 km discount-based redistribution strategy where returned or high-risk orders are offered to nearby customers with a 10–20% discount to reduce logistics losses and improve profit recovery.
+Proposed a 100 km discount-based redistribution strategy where returned or high-risk orders are offered to nearby customers with a 10–20% discount to reduce logistics losses and improve profit recovery.
 
 ## Key Insights
 - COD orders show significantly higher return rates than prepaid orders
